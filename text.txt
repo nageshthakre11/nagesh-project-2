@@ -10,4 +10,7 @@ we have already pushed the above matter , now its going for second commit
 "git push"
 there is no need to mention like -> "git push origin main"
 
+commit-> 3
 
+But to have the above to happen in short push command, we must have to set the upstream first 
+using the mentioned command "git push --set-upstrem origin main" 
