@@ -1,3 +1,13 @@
 1. created new repository from local
 2. now we have to push locally created repo to the remote git hub acct
 3. check out the process for the same:
+
+
+new update-> commit 2
+we have already pushed the above matter , now its going for second commit
+
+1. as we have already made a commite and pushed the text file, whicle doing it for second time we can simply push the commits as simple command like
+"git push"
+there is no need to mention like -> "git push origin main"
+
+
